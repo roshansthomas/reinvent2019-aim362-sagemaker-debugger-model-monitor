@@ -1,6 +1,11 @@
 
 # Build, train & debug, and deploy & monitor with Amazon SageMaker
 
+>This lab is provided as part of **[AWS Innovate Machine Learning Edition](https://aws.amazon.com/events/aws-innovate/machine-learning/)**, click [here](https://github.com/roshansthomas/aws-innovate-ai-ml-2022) to explore the full list of hands-on labs
+:information_source:
+ You will run this lab in your own AWS account. Please follow directions
+ at the end of the lab to remove resources to avoid future costs.
+
 ## Introduction
 
 Amazon SageMaker is a fully managed service that removes the heavy lifting from each step of the machine learning workflow, and provides every developer and data scientist with the ability to build, train, and deploy machine learning (ML) models quickly. In this interactive workshop, we will work on the different aspects of the ML workflow to build, train, and deploy a model using all the capabilities of Amazon SageMaker including the ones that we announced at re:Invent 2019. We will use the Amazon SageMaker to build, train & debug models with Amazon SageMaker Debugger, and deploy & monitor with Amazon SageMaker Model Monitor. Let’s build together!
@@ -28,7 +33,8 @@ An **Amazon SageMaker notebook instance** is a fully managed ML compute instance
 
 1. In the AWS Management Console, click on Services, type “SageMaker” and press enter.
 	
-	<img src="images/search_sagemaker.png" alt="Search SageMaker" width="700px" />
+	<img src="images/search_sagemaker.png" alt="Search SageMaker" width="700px" />
+
 2. You’ll be placed in the Amazon SageMaker dashboard. Click on **Notebook instances** either in the landing page or in the left menu.
 	
 	<img src="images/sagemaker_dashboard.png" alt="SageMaker dashboard" width="700px" />
@@ -83,7 +89,7 @@ As a consequence, in this section we will clone the GitHub repository into the A
 
 	```
 	cd SageMaker/
-	git clone https://github.com/aws-samples/reinvent2019-aim362-sagemaker-debugger-model-monitor.git
+	git clone https://github.com/roshansthomas/reinvent2019-aim362-sagemaker-debugger-model-monitor.git
 	```
 
 3. When the clone operation completes, the folder **reinvent2019-aim362-sagemaker-debugger-model-monitor** will appear automatically in the file browser on the left (if not, you can hit the **Refresh** button)
