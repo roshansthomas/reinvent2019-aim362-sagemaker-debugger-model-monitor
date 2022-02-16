@@ -116,3 +116,6 @@ The contents of this workshop are licensed under the [Apache 2.0 License](./LICE
 
 [Giuseppe A. Porcelli](https://it.linkedin.com/in/giuporcelli) - Principal, ML Specialist Solutions Architect - Amazon Web Services EMEA<br />
 [Paul Armstrong](https://www.linkedin.com/in/paul-armstrong-532bb41) - Principal Solutions Architect - Amazon Web Services EMEA
+
+## Survey
+Please help us to provide your feedback [here](https://amazonmr.au1.qualtrics.com/jfe/form/SV_3fNc9oH4ql0guCq?Session=HAN2). Participants who complete the surveys from AWS Innovate Online Conference – AI/ML Edition will receive a gift code for USD25 in AWS credits. AWS credits will be sent via email by 31 March, 2022.
